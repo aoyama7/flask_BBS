@@ -1,0 +1,6 @@
+.idea
+__pychche__/
+venv
+installed.lock
+*.pyc
+*/__pycache__
